@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tech Stack (Стек проекта)
+## 🧰 Стек проекта
 
 - **PyTorch**
 - **segmentation-models-pytorch (DeepLabV3+)**
@@ -15,7 +15,7 @@
 - **OpenCV**
 - **NumPy / Pillow**
 - **Kaggle Notebooks / Google Colab**
-- **CUDA (GPU T4)**
+
 
 ---
 
